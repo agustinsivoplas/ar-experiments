@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-101
+		INJECTED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:2:149-174
+		INJECTED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:2:102-148
+	android:versionCode
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:2:175-198
+		INJECTED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:2:199-239
+supports-screens
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-19:17
+MERGED from [:arcore_client:] /Users/agustin/.android/build-cache/468f2b5e72c0ed8e4eb8e198335421a40080d500/output/AndroidManifest.xml:28:5-42:19
+MERGED from [:google_ar_required:] /Users/agustin/.android/build-cache/86428fbad980943b971c2ac5d94ff51b557c06f5/output/AndroidManifest.xml:6:5-8:19
+	android:label
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:4:92-124
+	android:icon
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:4:58-91
+	android:banner
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:4:147-184
+	android:theme
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:4:125-146
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-140
+	android:label
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:5:141-172
+	android:configChanges
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:5:173-354
+	android:name
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:11:18-58
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:13:5-88
+	android:value
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:13:65-85
+	android:name
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:13:16-64
+meta-data#unity.build-id
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-101
+	android:value
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:14:46-98
+	android:name
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:14:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-69
+	android:value
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:15:49-66
+	android:name
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:16:5-74
+	android:value
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:16:51-71
+	android:name
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:16:16-50
+meta-data#android.max_aspect
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:17:5-72
+	android:value
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:17:50-69
+	android:name
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:17:16-49
+meta-data#unity.tango-enable
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:18:5-73
+	android:value
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:18:50-70
+	android:name
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:18:16-49
+uses-sdk
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-72
+MERGED from [:arcore_client:] /Users/agustin/.android/build-cache/468f2b5e72c0ed8e4eb8e198335421a40080d500/output/AndroidManifest.xml:25:5-44
+MERGED from [:arcore_client:] /Users/agustin/.android/build-cache/468f2b5e72c0ed8e4eb8e198335421a40080d500/output/AndroidManifest.xml:26:5-47
+MERGED from [:unityandroidpermissions:] /Users/agustin/.android/build-cache/b3ee92cbfc852c2a967d3c7be71d2c0954b32e6b/output/AndroidManifest.xml:11:5-13:41
+MERGED from [:unitygar:] /Users/agustin/.android/build-cache/f14f65805034d69b7a1bcf7ffa7e2428dbbc6ef1/output/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:20:40-69
+		INJECTED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:20:13-39
+		MERGED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:20:13-39
+uses-feature#0x00020000
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-52
+	android:glEsVersion
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:21:17-49
+uses-permission#android.permission.CAMERA
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:22:3-63
+	android:name
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:22:20-60
+uses-permission#android.permission.INTERNET
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:23:3-65
+	android:name
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:23:20-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:24:3-106
+	android:maxSdkVersion
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:24:77-103
+	android:name
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:24:20-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:25:3-105
+	android:maxSdkVersion
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:25:76-102
+	android:name
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:25:20-75
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:26:3-88
+	android:required
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:26:61-85
+	android:name
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:26:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:27:3-99
+	android:required
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:27:72-96
+	android:name
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:27:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:28:3-108
+	android:required
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:28:81-105
+	android:name
+		ADDED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:28:17-80
+activity#com.google.ar.core.InstallActivity
+ADDED from [:arcore_client:] /Users/agustin/.android/build-cache/468f2b5e72c0ed8e4eb8e198335421a40080d500/output/AndroidManifest.xml:31:9-37:80
+	android:excludeFromRecents
+		ADDED from [:arcore_client:] /Users/agustin/.android/build-cache/468f2b5e72c0ed8e4eb8e198335421a40080d500/output/AndroidManifest.xml:34:13-46
+	android:launchMode
+		ADDED from [:arcore_client:] /Users/agustin/.android/build-cache/468f2b5e72c0ed8e4eb8e198335421a40080d500/output/AndroidManifest.xml:36:13-43
+	android:exported
+		ADDED from [:arcore_client:] /Users/agustin/.android/build-cache/468f2b5e72c0ed8e4eb8e198335421a40080d500/output/AndroidManifest.xml:35:13-37
+	android:configChanges
+		ADDED from [:arcore_client:] /Users/agustin/.android/build-cache/468f2b5e72c0ed8e4eb8e198335421a40080d500/output/AndroidManifest.xml:33:13-74
+	android:theme
+		ADDED from [:arcore_client:] /Users/agustin/.android/build-cache/468f2b5e72c0ed8e4eb8e198335421a40080d500/output/AndroidManifest.xml:37:13-77
+	android:name
+		ADDED from [:arcore_client:] /Users/agustin/.android/build-cache/468f2b5e72c0ed8e4eb8e198335421a40080d500/output/AndroidManifest.xml:32:13-62
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client:] /Users/agustin/.android/build-cache/468f2b5e72c0ed8e4eb8e198335421a40080d500/output/AndroidManifest.xml:39:9-41:41
+	android:value
+		ADDED from [:arcore_client:] /Users/agustin/.android/build-cache/468f2b5e72c0ed8e4eb8e198335421a40080d500/output/AndroidManifest.xml:41:13-38
+	android:name
+		ADDED from [:arcore_client:] /Users/agustin/.android/build-cache/468f2b5e72c0ed8e4eb8e198335421a40080d500/output/AndroidManifest.xml:40:13-62
+meta-data#com.google.ar.core
+ADDED from [:google_ar_required:] /Users/agustin/.android/build-cache/86428fbad980943b971c2ac5d94ff51b557c06f5/output/AndroidManifest.xml:7:9-81
+	android:value
+		ADDED from [:google_ar_required:] /Users/agustin/.android/build-cache/86428fbad980943b971c2ac5d94ff51b557c06f5/output/AndroidManifest.xml:7:54-78
+	android:name
+		ADDED from [:google_ar_required:] /Users/agustin/.android/build-cache/86428fbad980943b971c2ac5d94ff51b557c06f5/output/AndroidManifest.xml:7:20-53
+uses-feature#android.hardware.camera.ar
+ADDED from [:google_ar_required:] /Users/agustin/.android/build-cache/86428fbad980943b971c2ac5d94ff51b557c06f5/output/AndroidManifest.xml:9:5-86
+	android:required
+		ADDED from [:google_ar_required:] /Users/agustin/.android/build-cache/86428fbad980943b971c2ac5d94ff51b557c06f5/output/AndroidManifest.xml:9:61-84
+	android:name
+		ADDED from [:google_ar_required:] /Users/agustin/.android/build-cache/86428fbad980943b971c2ac5d94ff51b557c06f5/output/AndroidManifest.xml:9:19-60
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-29:12 reason: com.google.ar.core.unity.manifestsettings has a targetSdkVersion < 4

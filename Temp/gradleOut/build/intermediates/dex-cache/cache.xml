@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/agustin/.android/build-cache/f14f65805034d69b7a1bcf7ffa7e2428dbbc6ef1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3b08b853fe85764387602ff10decaf2b449f4ea2">
+        <dex dex="/Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/build/intermediates/pre-dexed/debug/classes_097b7507d314d4f6485c950480a432e5355239cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9f3d3e32cdd44fcbf515f2825f68c63f2549e6b6">
+        <dex dex="/Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/build/intermediates/pre-dexed/debug/unity-classes_eb93a3498ee7cca9e9f62e40c9dafc2b00909cfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/agustin/.android/build-cache/f14f65805034d69b7a1bcf7ffa7e2428dbbc6ef1/output/jars/libs/tango_java_lib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dac29b41332a170a55310a99e3e2f3058e3ac419">
+        <dex dex="/Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/build/intermediates/pre-dexed/debug/tango_java_lib_b82ce4ffe424f626cfebcb001e2662cd8b688628.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/agustin/.android/build-cache/b3ee92cbfc852c2a967d3c7be71d2c0954b32e6b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="be35cfb98dbf80214072c4eb41da843fb0d4400d">
+        <dex dex="/Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/build/intermediates/pre-dexed/debug/classes_c0cc996bb2c34e1cfa4f40cc8502e583d2cfa358.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/agustin/.android/build-cache/468f2b5e72c0ed8e4eb8e198335421a40080d500/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="400e0334f6617e0690ec615d709d93e999b53402">
+        <dex dex="/Users/agustin/workspaces/myworkspace/HolaRA/Temp/gradleOut/build/intermediates/pre-dexed/debug/classes_4bb8f1e6e1324510d11eb38ea6295d6e31ce50c4.jar" />
+    </item>
+
+</items>
